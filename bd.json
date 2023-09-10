@@ -6,30 +6,30 @@
             "chapter_name": "Physics chapter 1",
             "chapterInfo": {
                 "chapter_file_name": "Physics chapter 1 book",
-                "chapter_link": "https:abc.pdf"
+                "chapter_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
             },
             "guideInfo": {
                 "guide_file_name": "Physics chapter 1 guide",
-                "guide_pdf_link": "https:abc.pdf"
+                "guide_pdf_link": "https://www.africau.edu/images/default/sample.pdf"
             },
             "noteInfo": [
                 {
                     "note_name": "Physics chapter 1 note 1",
-                    "note_link": "note1.pdf"
+                    "note_link": "https://www.orimi.com/pdf-test.pdf"
                 },
                 {
                     "note_name": "Physics chapter 1 note 2",
-                    "note_link": "note2.pdf"
+                    "note_link": "https://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
                 }
             ],
             "suggestionInfo": [
                 {
                     "suggestion_name": "Physics chapter 1 suggestion 1",
-                    "suggestion_link": "note1.pdf"
+                    "suggestion_link": "https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf"
                 },
                 {
                     "suggestion_name": "Physics chapter 1 suggestion 2",
-                    "suggestion_link": "note2.pdf"
+                    "suggestion_link": "https://www.antennahouse.com/hubfs/xsl-fo-sample/pdf/basic-link-1.pdf"
                 }
             ]
         },{
@@ -37,30 +37,30 @@
             "chapter_name": "Physics chapter 2",
             "chapterInfo": {
                 "chapter_file_name": "Physics chapter 2 book",
-                "chapter_link": "https:abc.pdf"
+                "chapter_link": "https://icseindia.org/document/sample.pdf"
             },
             "guideInfo": {
                 "guide_file_name": "Physics chapter 2 guide",
-                "guide_pdf_link": "https:abc.pdf"
+                "guide_pdf_link": "https://inst.eecs.berkeley.edu/~cs184/sp10/slides/lecture9.pdf"
             },
             "noteInfo": [
                 {
                     "note_name": "Physics chapter 2 note 1",
-                    "note_link": "note1.pdf"
+                    "note_link": "https://conferences.iaea.org/event/316/contributions/27844/attachments/14295/23577/Sakamoto-TECH-NSM.pdf"
                 },
                 {
                     "note_name": "Physics chapter 2 note 2",
-                    "note_link": "note2.pdf"
+                    "note_link": "https://www.cika.com/soporte/Information/Aplus/VoiceOTP/ap89042dbuser-manual.pdf"
                 }
             ],
             "suggestionInfo": [
                 {
                     "suggestion_name": "Physics chapter 2 suggestion 1",
-                    "suggestion_link": "note1.pdf"
+                    "suggestion_link": "https://www.soa.org/globalassets/assets/newsletters/innovators-and-entrepreneurs/2019/august/ie-2019-iss-68-pledge.pdf"
                 },
                 {
                     "suggestion_name": "Physics chapter 2 suggestion 2",
-                    "suggestion_link": "note2.pdf"
+                    "suggestion_link": "https://www.mouser.com/datasheet/2/405/snva428b-794089.pdf"
                 }
             ]
         }
