@@ -4,149 +4,149 @@
                 "departmentName": "all",
                 "bookName": "বাংলা ১ম পত্র",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "all",
                 "bookName": "বাংলা ২য় পত্র্র",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "all",
                 "bookName": "ইংরেজি ১ম পত্র্র",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "all",
                 "bookName": "ইংরেজি ২য় পত্র্র",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "all",
                 "bookName": "গণিত্র",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "all",
                 "bookName": "তথ্য ও যোগাযোগ প্রযুক্তি",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "all",
                 "bookName": "ইসলাম ও নৈতিক শিক্ষা",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "all",
                 "bookName": "শারীরিক শিক্ষা, স্বাস্থ্য ও খেলাধুলা",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "arts",
                 "bookName": "পৌরনীতি ও নাগরিকতা",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "arts",
                 "bookName": "অর্থনীতি",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "arts",
                 "bookName": "ভূগোল ও পরিবেশ",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "arts",
                 "bookName": "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "arts",
                 "bookName": "কৃষি শিক্ষা",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "commerce",
                 "bookName": "হিসাববিজ্ঞান",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "commerce",
                 "bookName": "ফিন্যান্স ও ব্যাংকিং",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "commerce",
                 "bookName": "ব্যবসায় উদ্যোগ",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "science",
                 "bookName": "জীববিজ্ঞান",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "science",
                 "bookName": "রসায়ন",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "science",
                 "bookName": "পদার্থবিজ্ঞান",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "science",
                 "bookName": "বাংলাদেশ ও বিশ্ব পরিচয়",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         },{
                 "departmentName": "science",
                 "bookName": "উচ্চতর গনিত",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
-                "totalChapter": 12,
-                "totalNote": 24,
-                "totalSuggestion": 10
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
         }
 
     ]
