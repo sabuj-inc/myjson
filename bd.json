@@ -66,69 +66,57 @@
         }
     ]
 },{
-    "book_name": "Bangla",
+    "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
     "book_info": [
         {
             "chapter_count": "1",
-            "chapter_name": "Bangla chapter 1",
+            "chapter_name": "পূর্ব বাংলার আন্দোলন ও জাতীয়তাবাদের উত্থান",
             "chapterInfo": {
-                "chapter_file_name": "Bangla chapter 1 book",
+                "chapter_file_name": "বাংলাদেশ ও বিশ্বপরিচয় c1 book",
                 "chapter_link": "https://www.mouser.com/datasheet/2/405/snva428b-794089.pdf"
             },
             "guideInfo": {
-                "guide_file_name": "Bangla chapter 1 guide",
-                "guide_pdf_link": "https:abc.pdf"
+                "guide_file_name": "বাংলাদেশ ও বিশ্বপরিচয় c1  guide",
+                "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838636/-.guide.pdf"
             },
             "noteInfo": [
-                {
-                    "note_name": "Bangla chapter 1 note 1",
-                    "note_link": "note1.pdf"
-                },
-                {
-                    "note_name": "Bangla chapter 1 note 2",
-                    "note_link": "note2.pdf"
-                }
+                
             ],
             "suggestionInfo": [
-                {
-                    "suggestion_name": "Bangla chapter 1 suggestion 1",
-                    "suggestion_link": "note1.pdf"
-                },
-                {
-                    "suggestion_name": "Bangla chapter 1 suggestion 2",
-                    "suggestion_link": "note2.pdf"
-                }
             ]
         },{
             "chapter_count": "2",
-            "chapter_name": "Bangla chapter 2",
+            "chapter_name": "স্বাধীন বাংলাদেশ",
             "chapterInfo": {
-                "chapter_file_name": "Bangla chapter 2 book",
-                "chapter_link": "https:abc.pdf"
+                "chapter_file_name": "স্বাধীন বাংলাদেশ c2  book",
+                "chapter_link": "https://github.com/hackbypdf/l360/files/12838657/book.pdf"
             },
             "guideInfo": {
-                "guide_file_name": "Bangla chapter 2 guide",
-                "guide_pdf_link": "https:abc.pdf"
+                "guide_file_name": "স্বাধীন বাংলাদেশ c2  guide",
+                "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838658/guide.pdf"
             },
             "noteInfo": [
-                {
-                    "note_name": "Bangla chapter 2 note 1",
-                    "note_link": "note1.pdf"
-                },
-                {
-                    "note_name": "Bangla chapter 2 note 2",
-                    "note_link": "note2.pdf"
-                }
+                
             ],
             "suggestionInfo": [
-                {
-                    "suggestion_name": "Bangla chapter 2 suggestion 1",
-                    "suggestion_link": "note1.pdf"
-                },
-                {
-                    "suggestion_name": "Bangla chapter 2 suggestion 2",
-                    "suggestion_link": "note2.pdf"
-                }
+                
+            ]
+        },{
+            "chapter_count": "3",
+            "chapter_name": "সৌরজগৎ ও ভূমণ্ডল",
+            "chapterInfo": {
+                "chapter_file_name": "সৌরজগৎ ও ভূমণ্ডল  c3 book",
+                "chapter_link": "https://github.com/hackbypdf/l360/files/12838655/book.pdf"
+            },
+            "guideInfo": {
+                "guide_file_name": "সৌরজগৎ ও ভূমণ্ডল  c3 guide",
+                "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838656/guide.pdf"
+            },
+            "noteInfo": [
+                
+            ],
+            "suggestionInfo": [
+                
             ]
         }
     ]
