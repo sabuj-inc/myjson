@@ -4,234 +4,70 @@
     "book_info": [
       {
         "chapter_count": "1",
-        "chapter_name": "বাস্তব সংখ্যা",
+        "chapter_name": "আকাইদ ও নৈতিক জীবন",
         "chapterInfo": {
-          "chapter_file_name": "12838689",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838689/book.pdf"
+          "chapter_file_name": "12838711",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12838711/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12838690",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838690/guide.pdf"
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "2",
-        "chapter_name": "সেট ও ফাংশন",
+        "chapter_name": "শরিয়তের উৎস",
         "chapterInfo": {
-          "chapter_file_name": "12838708",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838708/book.pdf"
+          "chapter_file_name": "12838722",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12838722/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12838709",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838709/guide.pdf"
+          "guide_file_name": "12838724",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838724/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "3",
-        "chapter_name": "বীজগাণিতিক রাশি",
+        "chapter_name": "ইবাদত",
         "chapterInfo": {
-          "chapter_file_name": "12838695",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838695/default.pdf"
+          "chapter_file_name": "12838719",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12838719/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12838693",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838693/guide.pdf"
+          "guide_file_name": "12838720",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838720/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "4",
-        "chapter_name": "সূচক ও লগারিদম",
+        "chapter_name": "আখলাক",
         "chapterInfo": {
-          "chapter_file_name": "12838706",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838706/book.pdf"
+          "chapter_file_name": "12838713",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12838713/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12838707",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838707/guide.pdf"
+          "guide_file_name": "12838714",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838714/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "5",
-        "chapter_name": "এক চলক বিশিষ্ট সমীকরণ",
+        "chapter_name": "আদর্শ জীবনচরিত",
         "chapterInfo": {
-          "chapter_file_name": "12838668",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838668/book.pdf"
+          "chapter_file_name": "12838715",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12838715/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12838669",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838669/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "6",
-        "chapter_name": "রেখা, কোণ ও ত্রিভূজ",
-        "chapterInfo": {
-          "chapter_file_name": "12838700",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838700/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838702",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838702/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "7",
-        "chapter_name": "ব্যবহারিক জ্যামিতি",
-        "chapterInfo": {
-          "chapter_file_name": "12838698",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838698/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838699",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838699/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },{
-        "chapter_count": "8",
-        "chapter_name": "বৃত্ত",
-        "chapterInfo": {
-          "chapter_file_name": "12838696",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838696/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838697",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838697/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },{
-        "chapter_count": "9",
-        "chapter_name": "ত্রিকোণমিতিক অনুপাত",
-        "chapterInfo": {
-          "chapter_file_name": "12838675",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838675/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838676",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838676/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },{
-        "chapter_count": "10",
-        "chapter_name": "দূরত্ব ও উচ্চতা",
-        "chapterInfo": {
-          "chapter_file_name": "12838680",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838680/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838681",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838681/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },{
-        "chapter_count": "11",
-        "chapter_name": "বীজগণিতীয় অনুপাত ও সমানুপাত",
-        "chapterInfo": {
-          "chapter_file_name": "12838691",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838691/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838692",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838692/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "12",
-        "chapter_name": "দুই চলকবিশিষ্ট সরল সহসমীকরণ",
-        "chapterInfo": {
-          "chapter_file_name": "12838677",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838677/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838679",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838679/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "13",
-        "chapter_name": "সসীম ধারা",
-        "chapterInfo": {
-          "chapter_file_name": "12838704",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838704/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838705",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838705/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "14",
-        "chapter_name": "অনুপাত, সদৃশতা ও প্রতিসমতা",
-        "chapterInfo": {
-          "chapter_file_name": "12838666",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838666/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838667",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838667/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "15",
-        "chapter_name": "ক্ষেত্রফল সম্পর্কিত উপপাদ্য ও সম্পাদ্য",
-        "chapterInfo": {
-          "chapter_file_name": "12838671",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838671/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838674",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838674/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "16",
-        "chapter_name": "পরিমিতি",
-        "chapterInfo": {
-          "chapter_file_name": "12838682",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838682/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838685",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838685/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "17",
-        "chapter_name": "পরিসংখ্যান",
-        "chapterInfo": {
-          "chapter_file_name": "12838686",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838686/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12838688",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838688/guide.pdf"
+          "guide_file_name": "12838716",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838716/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
