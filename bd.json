@@ -4,75 +4,83 @@
     "book_info": [
       {
         "chapter_count": "1",
-        "chapter_name": "আকাইদ ও নৈতিক জীবন",
+        "chapter_name": "তথ্য ও যোগাযোগ প্রযুক্তি এবং আমাদের বাংলাদেশ",
         "chapterInfo": {
-          "chapter_file_name": "12838711",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838711/book.pdf"
+          "chapter_file_name": "12838613",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12838613/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12838712",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+          "guide_file_name": "12838615",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838615/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "2",
-        "chapter_name": "শরিয়তের উৎস",
+        "chapter_name": "কম্পিউটার ও কম্পিউটার ব্যবহারকারীর নিরাপত্তা",
         "chapterInfo": {
-          "chapter_file_name": "12838722",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838722/book.pdf"
+          "chapter_file_name": "12838609",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12838609/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12838724",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838724/guide.pdf"
+          "guide_file_name": "12838610",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838610/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "3",
-        "chapter_name": "ইবাদত",
+        "chapter_name": "আমার শিক্ষায় ইন্টারনেট",
         "chapterInfo": {
-          "chapter_file_name": "12838719",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838719/book.pdf"
+          "chapter_file_name": "12838607",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12838607/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12838720",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838720/guide.pdf"
+          "guide_file_name": "12838608",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838608/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "4",
-        "chapter_name": "আখলাক",
+        "chapter_name": "আমার লেখালেখি ও হিসাব",
         "chapterInfo": {
-          "chapter_file_name": "12838713",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838713/book.pdf"
+          "chapter_file_name": "12838605",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12838605/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12838714",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838714/guide.pdf"
+          "guide_file_name": "12838606",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838606/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "5",
-        "chapter_name": "আদর্শ জীবনচরিত",
+        "chapter_name": "মাল্টিমিডিয়া ও গ্রাফিক্স",
         "chapterInfo": {
-          "chapter_file_name": "12838715",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12838715/book.pdf"
+          "chapter_file_name": "12838616",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12838616/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12838716",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838716/guide.pdf"
+          "guide_file_name": "12838617",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838617/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },{
+        "chapter_count": "6",
+        "chapter_name": "ডেটাবেজ-এর ব্যবহার",
+        "chapterInfo": {
+          "chapter_file_name": "12838611",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12838611/-.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838612",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838612/-.guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       }
-      
     ]
   }
 ]
