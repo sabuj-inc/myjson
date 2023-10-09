@@ -1,5 +1,4 @@
 [
-  
   {
     "book_name": "Bangladesh and world identity",
     "book_info": [
@@ -101,8 +100,8 @@
         "noteInfo": [],
         "suggestionInfo": []
       },{
-        "chapter_count": "বৃত্ত",
-        "chapter_name": "",
+        "chapter_count": "8",
+        "chapter_name": "বৃত্ত",
         "chapterInfo": {
           "chapter_file_name": "12838696",
           "chapter_link": "https://github.com/hackbypdf/l360/files/12838696/book.pdf"
