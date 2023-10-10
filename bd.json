@@ -4,56 +4,98 @@
     "book_info": [
       {
         "chapter_count": "1",
-        "chapter_name": "আমি ও আমার ক্যারিয়ার",
+        "chapter_name": "বাংলা ব্যাকরণ",
         "chapterInfo": {
-          "chapter_file_name": "12850012",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850012/book.pdf"
+          "chapter_file_name": "12850034",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850034/1.book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12850014",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850014/guide.pdf"
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "2",
-        "chapter_name": "ক্যারিয়ার গঠন  গুণ ও দক্ষতা",
+        "chapter_name": "অনুচ্ছেদ",
         "chapterInfo": {
-          "chapter_file_name": "12850015",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850015/book.pdf"
+          "chapter_file_name": "12850036",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850036/2.book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12850016",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850016/guide.pdf"
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "3",
-        "chapter_name": "ক্যারিয়ার গঠনে সংযোগ স্থাপন ও আচরণ",
+        "chapter_name": "সারাংশ ও সারমর্ম",
         "chapterInfo": {
-          "chapter_file_name": "12850017",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850017/book.pdf"
+          "chapter_file_name": "12850037",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850037/3.book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12850018",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850018/guide.pdf"
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "4",
-        "chapter_name": "আমি ও আমার কর্মক্ষেত্র",
+        "chapter_name": " ভাব-সম্প্রসারণ",
         "chapterInfo": {
-          "chapter_file_name": "12850010",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850010/book.pdf"
+          "chapter_file_name": "12850038",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850038/4.-.book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12850011",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850011/guide.pdf"
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "5",
+        "chapter_name": "চিঠিপত্র",
+        "chapterInfo": {
+          "chapter_file_name": "12850041",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850041/5.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "6",
+        "chapter_name": "সংবাদ প্রতিবেদন",
+        "chapterInfo": {
+          "chapter_file_name": "12850042",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850042/6.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "7",
+        "chapter_name": "প্রবন্ধ",
+        "chapterInfo": {
+          "chapter_file_name": "12850043",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850043/7.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
