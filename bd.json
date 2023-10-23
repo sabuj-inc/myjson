@@ -4,157 +4,170 @@
     "book_info": [
       {
         "chapter_count": "1",
-        "chapter_name": "রসায়নের ধারণা",
+        "chapter_name": "সেট ও ফাংশন",
         "chapterInfo": {
-          "chapter_file_name": "12867686",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867686/book.pdf"
+          "chapter_file_name": "12867842",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867842/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867695",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867695/guide.pdf"
+          "guide_file_name": "12867846",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867846/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "2",
-        "chapter_name": "পদার্থের অবস্থা",
+        "chapter_name": "বীজগাণিতিক রাশি",
         "chapterInfo": {
-          "chapter_file_name": "12867593",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867593/book.pdf"
+          "chapter_file_name": "12867806",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867806/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867600",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867600/guide.pdf"
+          "guide_file_name": "12867812",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867812/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "3",
-        "chapter_name": "পদার্থের গঠন",
+        "chapter_name": "জ্যামিতি",
         "chapterInfo": {
-          "chapter_file_name": "12867610",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867610/book.pdf"
+          "chapter_file_name": "12867783",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867783/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867623",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867623/guide.pdf"
+          "guide_file_name": "12867785",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867785/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "4",
-        "chapter_name": "পর্যায় সারণি",
+        "chapter_name": "জ্যামিতিক অঙ্কন",
         "chapterInfo": {
-          "chapter_file_name": "12867624",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867624/book.pdf"
+          "chapter_file_name": "12867788",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867788/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867637",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867637/guide.pdf"
+          "guide_file_name": "12867789",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867789/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "5",
-        "chapter_name": "রাসায়নিক বন্ধন",
+        "chapter_name": "সমীকরণ",
         "chapterInfo": {
-          "chapter_file_name": "12867698",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867698/book.pdf"
+          "chapter_file_name": "12867824",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867824/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867703",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867703/guide.pdf"
+          "guide_file_name": "12867827",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867827/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "6",
-        "chapter_name": "মোলের ধারণা ও রাসায়নিক গণনা",
+        "chapter_name": "অসমতা",
         "chapterInfo": {
-          "chapter_file_name": "12867641",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867641/book.pdf"
+          "chapter_file_name": "12867758",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867758/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867666",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867666/guide.pdf"
+          "guide_file_name": "12867760",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867760/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "7",
-        "chapter_name": "রাসায়নিক বিক্রিয়া",
+        "chapter_name": "অসীম ধারা",
         "chapterInfo": {
-          "chapter_file_name": "12867708",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867708/book.pdf"
+          "chapter_file_name": "12867768",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867768/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867714",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867714/guide.pdf"
+          "guide_file_name": "12867771",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867771/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "8",
-        "chapter_name": "রসায়ন ও শক্তি",
+        "chapter_name": "ত্রিকোণমিতি",
         "chapterInfo": {
-          "chapter_file_name": "12867670",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867670/book.pdf"
+          "chapter_file_name": "12867791",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867791/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867683",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867683/guide.pdf"
+          "guide_file_name": "12867794",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867794/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "9",
-        "chapter_name": "এসিড-ক্ষারক সমতা",
+        "chapter_name": "সূচকীয় ও লগারিদমীয় ফাংশন",
         "chapterInfo": {
-          "chapter_file_name": "12867522",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867522/-.book.pdf"
+          "chapter_file_name": "12867838",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867838/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867561",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867561/-.guide.pdf"
+          "guide_file_name": "12867840",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867840/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "10",
-        "chapter_name": "খনিজ সম্পদ ধাতু-অধাতু",
+        "chapter_name": "দ্বিপদী বিস্তৃতি",
         "chapterInfo": {
-          "chapter_file_name": "12867582",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867582/-.book.pdf"
+          "chapter_file_name": "12867795",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867795/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867589",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867589/-.guide.pdf"
+          "guide_file_name": "12867796",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867796/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "11",
-        "chapter_name": "খনিজ সম্পদ জীবাশ্ম",
+        "chapter_name": "স্থানাঙ্ক জ্যামিতি",
         "chapterInfo": {
-          "chapter_file_name": "12867564",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867564/book.pdf"
+          "chapter_file_name": "12867848",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867848/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867576",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867576/guide.pdf"
+          "guide_file_name": "12867851",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867851/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "12",
-        "chapter_name": "আমাদের জীবনে রসায়ন",
+        "chapter_name": "সমতলীয় ভেক্টর",
         "chapterInfo": {
-          "chapter_file_name": "12867514",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867514/book.pdf"
+          "chapter_file_name": "12867815",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867815/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867518",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867518/guide.pdf"
+          "guide_file_name": "12867819",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867819/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },{
+        "chapter_count": "13",
+        "chapter_name": "ঘন জ্যামিতি",
+        "chapterInfo": {
+          "chapter_file_name": "12867778",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867778/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "1111",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867781/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
