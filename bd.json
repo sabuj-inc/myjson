@@ -1,190 +1,188 @@
-[
-  {
+{
     "book_name": "50",
     "book_info": [
       {
         "chapter_count": "1",
-        "chapter_name": "জীবন পাঠ",
+        "chapter_name": "ভৌত রাশি এবং পরিমাপ",
         "chapterInfo": {
-          "chapter_file_name": "12867933",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867933/book.pdf"
+          "chapter_file_name": "12868207",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868207/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867936",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867936/guide.pdf"
+          "guide_file_name": "12868213",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868213/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "2",
-        "chapter_name": "জীবকোষ ও টিস্যু",
+        "chapter_name": "গতি",
         "chapterInfo": {
-          "chapter_file_name": "12867921",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867921/book.pdf"
+          "chapter_file_name": "12868136",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868136/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867932",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867932/guide.pdf"
+          "guide_file_name": "12868146",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868146/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "3",
-        "chapter_name": "কোষ বিভাজন",
+        "chapter_name": "বল",
         "chapterInfo": {
-          "chapter_file_name": "12867883",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867883/book.pdf"
+          "chapter_file_name": "12868187",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868187/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867889",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867889/guide.pdf"
+          "guide_file_name": "12868196",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868196/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "4",
-        "chapter_name": "জীবনী শক্তি",
+        "chapter_name": "কাজ, ক্ষমতা ও শক্তি",
         "chapterInfo": {
-          "chapter_file_name": "12867939",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867939/book.pdf"
+          "chapter_file_name": "12868124",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868124/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867978",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867978/guide.pdf"
+          "guide_file_name": "12868133",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868133/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "5",
-        "chapter_name": "খাদ্য, পুষ্টি এবং পরিপাক",
+        "chapter_name": "পদার্থের অবস্থা ও চাপ",
         "chapterInfo": {
-          "chapter_file_name": "12867890",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867890/book.pdf"
+          "chapter_file_name": "12868182",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868182/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867898",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867898/guide.pdf"
+          "guide_file_name": "12868186",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868186/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "6",
-        "chapter_name": "জীবে পরিবহণ",
+        "chapter_name": "বস্তুর ওপর তাপের প্রভাব",
         "chapterInfo": {
-          "chapter_file_name": "12867982",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867982/book.pdf"
+          "chapter_file_name": "12868197",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868197/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867992",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867992/guide.pdf"
+          "guide_file_name": "12868198",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868198/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "7",
-        "chapter_name": "গ্যাসীয় বিনিময়",
+        "chapter_name": "তরঙ্গ ও শব্দ",
         "chapterInfo": {
-          "chapter_file_name": "12867910",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867910/book.pdf"
+          "chapter_file_name": "12868173",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868173/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867917",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867917/guide.pdf"
+          "guide_file_name": "12868178",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868178/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "8",
-        "chapter_name": "রেচন প্রক্রিয়া",
+        "chapter_name": "আলোর প্রতিফলন",
         "chapterInfo": {
-          "chapter_file_name": "12868044",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12868044/book.pdf"
+          "chapter_file_name": "12868101",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868101/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12868046",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868046/guide.pdf"
+          "guide_file_name": "12868113",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868113/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "9",
-        "chapter_name": "দৃঢ়তা প্রদান ও চলন",
+        "chapter_name": "আলোর প্রতিসরণ",
         "chapterInfo": {
-          "chapter_file_name": "12868037",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12868037/book.pdf"
+          "chapter_file_name": "12868114",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868114/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12868041",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868041/guide.pdf"
+          "guide_file_name": "12868123",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868123/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "10",
-        "chapter_name": "সমন্বয়",
+        "chapter_name": "স্থির বিদ্যুৎ",
         "chapterInfo": {
-          "chapter_file_name": "12868048",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12868048/book.pdf"
+          "chapter_file_name": "12868214",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868214/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12868055",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868055/guide.pdf"
+          "guide_file_name": "12868223",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868223/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "11",
-        "chapter_name": "জীবের প্রজনন",
+        "chapter_name": "চল বিদ্যুৎ",
         "chapterInfo": {
-          "chapter_file_name": "12868006",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12868006/book.pdf"
+          "chapter_file_name": "12868150",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868150/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12868022",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868022/guide.pdf"
+          "guide_file_name": "12868165",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868165/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "12",
-        "chapter_name": "জীবের বংশগতি ও বিবর্তন",
+        "chapter_name": "বিদ্যুতের চৌম্বক ক্রিয়া",
         "chapterInfo": {
-          "chapter_file_name": "12868028",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12868028/book.pdf"
+          "chapter_file_name": "12868199",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868199/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12868034",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868034/guide.pdf"
+          "guide_file_name": "12868203",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868203/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "13",
-        "chapter_name": "জীবের পরিবেশ",
+        "chapter_name": "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিকস",
         "chapterInfo": {
-          "chapter_file_name": "12867994",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867994/book.pdf"
+          "chapter_file_name": "12868088",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868088/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12868003",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868003/guide.pdf"
+          "guide_file_name": "12868097",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868097/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },{
         "chapter_count": "14",
-        "chapter_name": "জীবপ্রযুক্তি",
+        "chapter_name": "জীবন বাঁচাতে পদার্থবিজ্ঞান",
         "chapterInfo": {
-          "chapter_file_name": "12867979",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867979/book.pdf"
+          "chapter_file_name": "12868169",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12868169/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867981",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867981/guide.pdf"
+          "guide_file_name": "12868171",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12868171/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       }
     ]
   }
-]
