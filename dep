@@ -9,28 +9,28 @@
                 "totalSuggestion": "10"
         },{
                 "departmentName": "all",
-                "bookName": "বাংলা ২য় পত্র্র",
+                "bookName": "বাংলা ২য় পত্র",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
                 "totalChapter": "12",
                 "totalNote": "24",
                 "totalSuggestion": "10"
         },{
                 "departmentName": "all",
-                "bookName": "ইংরেজি ১ম পত্র্র",
+                "bookName": "ইংরেজি ১ম পত্র",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
                 "totalChapter": "12",
                 "totalNote": "24",
                 "totalSuggestion": "10"
         },{
                 "departmentName": "all",
-                "bookName": "ইংরেজি ২য় পত্র্র",
+                "bookName": "ইংরেজি ২য় পত্র",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
                 "totalChapter": "12",
                 "totalNote": "24",
                 "totalSuggestion": "10"
         },{
                 "departmentName": "all",
-                "bookName": "গণিত্র",
+                "bookName": "গণিত",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
                 "totalChapter": "12",
                 "totalNote": "24",
@@ -38,6 +38,13 @@
         },{
                 "departmentName": "all",
                 "bookName": "তথ্য ও যোগাযোগ প্রযুক্তি",
+                "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
+                "totalChapter": "12",
+                "totalNote": "24",
+                "totalSuggestion": "10"
+        },{
+                "departmentName": "all",
+                "bookName": "বিজ্ঞান",
                 "bookCoverUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
                 "totalChapter": "12",
                 "totalNote": "24",
