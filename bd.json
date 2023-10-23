@@ -1,204 +1,1032 @@
 [
-  {
+    {
     "book_name": "বাংলা ১ম পত্র",
     "book_info": [
       {
-        "chapter_count": "1",
-        "chapter_name": "উন্নততর জীবনধারা",
-        "chapterInfo": {
-          "chapter_file_name": "12850490",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850490/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12850503",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850503/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "2",
-        "chapter_name": "জীবনের জন্য পানি",
-        "chapterInfo": {
-          "chapter_file_name": "12850513",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850513/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12850519",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850519/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "3",
-        "chapter_name": "হৃদযন্ত্রের যত কথা",
-        "chapterInfo": {
-          "chapter_file_name": "12850556",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850556/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12850578",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850578/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "4",
-        "chapter_name": "নবজীবনের সূচনা",
-        "chapterInfo": {
-          "chapter_file_name": "12850542",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850542/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12850544",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850544/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
         "chapter_count": "5",
-        "chapter_name": "দেখতে হলে আলো চাই",
+        "chapter_name": "দেনাপাওনা",
         "chapterInfo": {
-          "chapter_file_name": "12850539",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850539/book.pdf"
+          "chapter_file_name": "12850123",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850123/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12850540",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850540/guide.pdf"
+          "guide_file_name": "12850124",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850124/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "6",
-        "chapter_name": "পলিমার",
+        "chapter_name": "বই পড়া",
         "chapterInfo": {
-          "chapter_file_name": "12850546",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850546/book.pdf"
+          "chapter_file_name": "12850138",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850138/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12850547",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850547/guide.pdf"
+          "guide_file_name": "12850139",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850139/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "7",
-        "chapter_name": "অম্ল, ক্ষারক ও লবণের ব্যবহার",
+        "chapter_name": "অভাগীর স্বর্গ",
         "chapterInfo": {
-          "chapter_file_name": "12850478",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850478/book.pdf"
+          "chapter_file_name": "12850100",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850100/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12850482",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850482/guide.pdf"
+          "guide_file_name": "12850101",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850101/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "8",
-        "chapter_name": "আমাদের সম্পদ",
+        "chapter_name": "নিরীহ বাঙালি",
         "chapterInfo": {
-          "chapter_file_name": "12850485",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850485/book.pdf"
+          "chapter_file_name": "12850127",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850127/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12850487",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850487/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "9",
-        "chapter_name": "দুর্যোগের সাথে বসবাস",
-        "chapterInfo": {
-          "chapter_file_name": "12850536",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850536/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12850538",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850538/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "10",
-        "chapter_name": "এসো বলকে জানি",
-        "chapterInfo": {
-          "chapter_file_name": "12850504",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850504/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12850507",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850507/guide.pdf"
-        },
-        "noteInfo": [],
-        "suggestionInfo": []
-      },
-      {
-        "chapter_count": "11",
-        "chapter_name": "জীবপ্রযুক্তি",
-        "chapterInfo": {
-          "chapter_file_name": "12850520",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850520/book.pdf"
-        },
-        "guideInfo": {
-          "guide_file_name": "12850526",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850526/guide.pdf"
+          "guide_file_name": "12850128",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850128/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "12",
-        "chapter_name": "প্রাত্যহিক জীবনে তড়িৎ",
+        "chapter_name": "আম-আঁটির ভেঁপু",
         "chapterInfo": {
-          "chapter_file_name": "12850548",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850548/book.pdf"
+          "chapter_file_name": "12850102",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850102/-.book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12850549",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850549/guide.pdf"
+          "guide_file_name": "12850103",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850103/-.guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "13",
-        "chapter_name": "সবাই কাছাকাছি",
+        "chapter_name": "মানুষ মুহম্মদ (স.)",
         "chapterInfo": {
-          "chapter_file_name": "12850550",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850550/book.pdf"
+          "chapter_file_name": "12850153",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850153/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12850555",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850555/guide.pdf"
+          "guide_file_name": "12850154",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850154/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       },
       {
         "chapter_count": "14",
-        "chapter_name": "জীবন বাঁচাতে বিজ্ঞান",
+        "chapter_name": "নিমগাছ",
         "chapterInfo": {
-          "chapter_file_name": "12850508",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12850508/book.pdf"
+          "chapter_file_name": "12850125",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850125/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12850511",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850511/guide.pdf"
+          "guide_file_name": "12850126",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850126/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "15",
+        "chapter_name": "উপেক্ষিত শক্তির উদ্বোধন",
+        "chapterInfo": {
+          "chapter_file_name": "12850108",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850108/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850109",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850109/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "16",
+        "chapter_name": "শিক্ষা ও মনুষ্যত্ব",
+        "chapterInfo": {
+          "chapter_file_name": "12850155",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850155/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850156",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850156/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "19",
+        "chapter_name": "মমতাদি",
+        "chapterInfo": {
+          "chapter_file_name": "12850148",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850148/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850149",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850149/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "21",
+        "chapter_name": "পয়লা বৈশাখ",
+        "chapterInfo": {
+          "chapter_file_name": "2850130",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/2850130/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850132",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850132/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "23",
+        "chapter_name": "একাত্তরের দিনগুলি",
+        "chapterInfo": {
+          "chapter_file_name": "12850110",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850110/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850111",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850111/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "27",
+        "chapter_name": "সাহিত্যের রূপ ও রীতি",
+        "chapterInfo": {
+          "chapter_file_name": "12850159",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850159/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850160",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850160/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "28",
+        "chapter_name": "বাঙলা শব্দ",
+        "chapterInfo": {
+          "chapter_file_name": "12850143",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850143/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850145",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850145/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "35",
+        "chapter_name": "কপোতাক্ষ নদ",
+        "chapterInfo": {
+          "chapter_file_name": "12850112",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850112/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850114",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850114/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "36",
+        "chapter_name": "জীবন সঙ্গীত",
+        "chapterInfo": {
+          "chapter_file_name": "12850117",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850117/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850118",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850118/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "37",
+        "chapter_name": "প্রাণ",
+        "chapterInfo": {
+          "chapter_file_name": "12850136",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850136/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850137",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850137/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "39",
+        "chapter_name": "অন্ধবধূ",
+        "chapterInfo": {
+          "chapter_file_name": "12850097",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850097/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850098",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850098/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "40",
+        "chapter_name": "ঝর্ণার গান",
+        "chapterInfo": {
+          "chapter_file_name": "12850119",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850119/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850120",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850120/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "44",
+        "chapter_name": "মানুষ",
+        "chapterInfo": {
+          "chapter_file_name": "12850150",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850150/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850151",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850151/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "46",
+        "chapter_name": "সেইদিন এই মাঠ",
+        "chapterInfo": {
+          "chapter_file_name": "12850161",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850161/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850162",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850162/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "47",
+        "chapter_name": "পল্লিজননী",
+        "chapterInfo": {
+          "chapter_file_name": "12850134",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850134/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850135",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850135/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "51",
+        "chapter_name": "বৃষ্টি",
+        "chapterInfo": {
+          "chapter_file_name": "12850146",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850146/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850147",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850147/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "52",
+        "chapter_name": "আমি কোন আগন্তুক নই",
+        "chapterInfo": {
+          "chapter_file_name": "12850106",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850106/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850107",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850107/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "56",
+        "chapter_name": "তোমাকে পাওয়ার জন্য, হে স্বাধীনতা",
+        "chapterInfo": {
+          "chapter_file_name": "12850121",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850121/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850122",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850122/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "58",
+        "chapter_name": "আমার পরিচয়",
+        "chapterInfo": {
+          "chapter_file_name": "12850104",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850104/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850105",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850105/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "61",
+        "chapter_name": "স্বাধীনতা, এ শব্দটি কীভাবে আমাদের হলো",
+        "chapterInfo": {
+          "chapter_file_name": "12850163",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850163/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850164",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850164/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "62",
+        "chapter_name": "সাহসী জননী বাংলা",
+        "chapterInfo": {
+          "chapter_file_name": "12850157",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850157/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850158",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850158/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "63",
+        "chapter_name": "কাকতাড়ুয়া",
+        "chapterInfo": {
+          "chapter_file_name": "12850115",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850115/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850116",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850116/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "64",
+        "chapter_name": "বহিপীর",
+        "chapterInfo": {
+          "chapter_file_name": "12850141",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850141/book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12850142",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12850142/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      }
+    ]
+  },
+    {
+    "book_name": "বাংলা ২য় পত্র",
+    "book_info": [
+      {
+        "chapter_count": "1",
+        "chapter_name": "বাংলা ব্যাকরণ",
+        "chapterInfo": {
+          "chapter_file_name": "12850034",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850034/1.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "2",
+        "chapter_name": "অনুচ্ছেদ",
+        "chapterInfo": {
+          "chapter_file_name": "12850036",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850036/2.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "3",
+        "chapter_name": "সারাংশ ও সারমর্ম",
+        "chapterInfo": {
+          "chapter_file_name": "12850037",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850037/3.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "4",
+        "chapter_name": " ভাব-সম্প্রসারণ",
+        "chapterInfo": {
+          "chapter_file_name": "12850038",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850038/4.-.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "5",
+        "chapter_name": "চিঠিপত্র",
+        "chapterInfo": {
+          "chapter_file_name": "12850041",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850041/5.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "6",
+        "chapter_name": "সংবাদ প্রতিবেদন",
+        "chapterInfo": {
+          "chapter_file_name": "12850042",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850042/6.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "7",
+        "chapter_name": "প্রবন্ধ",
+        "chapterInfo": {
+          "chapter_file_name": "12850043",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12850043/7.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
       }
       
+    ]
+  },
+    {
+    "book_name": "ইংরেজি ১ম পত্র",
+    "book_info": [
+      {
+        "chapter_count": "1",
+        "chapter_name": "Father of the Nation",
+        "chapterInfo": {
+          "chapter_file_name": "12849957",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849957/Father.of.the.Nation.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "2",
+        "chapter_name": "Pastimes",
+        "chapterInfo": {
+          "chapter_file_name": "12849961",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849961/Pastimes.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "3",
+        "chapter_name": "Events and Festivals",
+        "chapterInfo": {
+          "chapter_file_name": "12849956",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849956/Events.and.Festivals.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "4",
+        "chapter_name": "Are We Aware",
+        "chapterInfo": {
+          "chapter_file_name": "12849953",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849953/Are.We.Aware.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "5",
+        "chapter_name": "Nature and Environment",
+        "chapterInfo": {
+          "chapter_file_name": "12849959",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849959/Nature.and.Environment.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "6",
+        "chapter_name": "Our Neighbours",
+        "chapterInfo": {
+          "chapter_file_name": "12849960",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849960/Our.Neighbours.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "7",
+        "chapter_name": "People Who Stand Out",
+        "chapterInfo": {
+          "chapter_file_name": "12849964",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849964/People.Who.Stand.Out.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "8",
+        "chapter_name": "World Heritage",
+        "chapterInfo": {
+          "chapter_file_name": "12849972",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849972/World.Heritage.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "9",
+        "chapter_name": "Unconventional Jobs",
+        "chapterInfo": {
+          "chapter_file_name": "12849971",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849971/Unconventional.Jobs.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "10",
+        "chapter_name": "Dreams",
+        "chapterInfo": {
+          "chapter_file_name": "12849955",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849955/Dreams.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "11",
+        "chapter_name": "Renewable Energy",
+        "chapterInfo": {
+          "chapter_file_name": "12849969",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849969/Renewable.Energy.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "12",
+        "chapter_name": "Roots",
+        "chapterInfo": {
+          "chapter_file_name": "12849970",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849970/Roots.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "13",
+        "chapter_name": "Media and Modes of E-communication",
+        "chapterInfo": {
+          "chapter_file_name": "12849958",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849958/Media.and.Modes.of.E-communication.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "14",
+        "chapter_name": "Pleasure and Purpose",
+        "chapterInfo": {
+          "chapter_file_name": "12849967",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849967/Pleasure.and.Purpose.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      }
+      
+    ]
+  },
+    {
+    "book_name": "ইংরেজি ২য় পত্র",
+    "book_info": [
+      {
+        "chapter_count": "1",
+        "chapter_name": " The Noun",
+        "chapterInfo": {
+          "chapter_file_name": "12849910",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849910/The.Noun.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "2",
+        "chapter_name": "Pronouns and Possessives",
+        "chapterInfo": {
+          "chapter_file_name": "12849899",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849899/Pronouns.and.Possessives.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "3",
+        "chapter_name": "Adjectives",
+        "chapterInfo": {
+          "chapter_file_name": "12849888",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849888/Adjectives.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "4",
+        "chapter_name": "Verbs and Tenses",
+        "chapterInfo": {
+          "chapter_file_name": "12849913",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849913/Verbs.and.Tenses.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "5",
+        "chapter_name": "Verbs Modals",
+        "chapterInfo": {
+          "chapter_file_name": "12849917",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849917/Verbs.Modals.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "6",
+        "chapter_name": "Kinds of Verbs",
+        "chapterInfo": {
+          "chapter_file_name": "12849896",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849896/Kinds.of.Verbs.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "7",
+        "chapter_name": "The Adverb",
+        "chapterInfo": {
+          "chapter_file_name": "12849908",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849908/The.Adverb.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "8",
+        "chapter_name": "The Preposition",
+        "chapterInfo": {
+          "chapter_file_name": "12849912",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849912/The.Preposition.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "9",
+        "chapter_name": "Sentences",
+        "chapterInfo": {
+          "chapter_file_name": "12849901",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849901/Sentences.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "10",
+        "chapter_name": "Introductory 'it' & 'there'",
+        "chapterInfo": {
+          "chapter_file_name": "12849894",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849894/Introductory.it.there.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "11",
+        "chapter_name": "Conditionals",
+        "chapterInfo": {
+          "chapter_file_name": "12849890",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849890/Conditionals.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "12",
+        "chapter_name": "The Passive",
+        "chapterInfo": {
+          "chapter_file_name": "12849911",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849911/The.Passive.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "13",
+        "chapter_name": "Speech",
+        "chapterInfo": {
+          "chapter_file_name": "12849905",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849905/Speech.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "14",
+        "chapter_name": "Letters",
+        "chapterInfo": {
+          "chapter_file_name": "12849897",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849897/Letters.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "15",
+        "chapter_name": "CV & Cover Letter",
+        "chapterInfo": {
+          "chapter_file_name": "12849891",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849891/CV.Cover.Letter.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "16",
+        "chapter_name": "E-mails",
+        "chapterInfo": {
+          "chapter_file_name": "12849893",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849893/E-mails.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "17",
+        "chapter_name": "Short Composition Paragraphs",
+        "chapterInfo": {
+          "chapter_file_name": "12849903",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849903/Short.Composition.Paragraphs.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "18",
+        "chapter_name": "Short Composition",
+        "chapterInfo": {
+          "chapter_file_name": "12849902",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849902/Short.Composition.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "19",
+        "chapter_name": "Completing Stories",
+        "chapterInfo": {
+          "chapter_file_name": "12849889",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849889/Completing.Stories.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "20",
+        "chapter_name": "Writing Summaries",
+        "chapterInfo": {
+          "chapter_file_name": "12849923",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849923/Writing.Summaries.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      },
+      {
+        "chapter_count": "21",
+        "chapter_name": "Describing Graphs and Charts",
+        "chapterInfo": {
+          "chapter_file_name": "12849892",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12849892/Describing.Graphs.and.Charts.book.pdf"
+        },
+        "guideInfo": {
+          "guide_file_name": "12838712",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12838712/guide.pdf"
+        },
+        "noteInfo": [],
+        "suggestionInfo": []
+      }
     ]
   }
 ]
