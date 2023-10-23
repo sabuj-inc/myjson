@@ -4,168 +4,157 @@
     "book_info": [
       {
         "chapter_count": "1",
-        "chapter_name": "হিসাববিজ্ঞান পরিচিতি",
+        "chapter_name": "ব্যবসায় পরিচিতি",
         "chapterInfo": {
-          "chapter_file_name": "12867190",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867190/book.pdf"
+          "chapter_file_name": "12867365",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867365/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867194",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867194/guide.pdf"
+          "guide_file_name": "12867369",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867369/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "2",
-        "chapter_name": "লেনদেন",
+        "chapter_name": "ব্যবসায় উদ্যোগ ও উদ্যোক্তা",
         "chapterInfo": {
-          "chapter_file_name": "12867175",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867175/book.pdf"
+          "chapter_file_name": "12867350",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867350/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867177",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867177/guide.pdf"
+          "guide_file_name": "12867352",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867352/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "3",
-        "chapter_name": "দুতরফা দাখিলা পদ্ধতি",
+        "chapter_name": "আত্মকর্মসংস্থান",
         "chapterInfo": {
-          "chapter_file_name": "12867113",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867113/book.pdf"
+          "chapter_file_name": "12867312",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867312/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867115",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867115/guide.pdf"
+          "guide_file_name": "12867316",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867316/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "4",
-        "chapter_name": "মূলধন ও মুনাফা জাতীয় লেনদেন",
+        "chapter_name": "মালিকানার ভিত্তিতে ব্যবসায়",
         "chapterInfo": {
-          "chapter_file_name": "12867147",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867147/book.pdf"
+          "chapter_file_name": "12867385",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867385/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867149",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867149/guide.pdf"
+          "guide_file_name": "12867386",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867386/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "5",
-        "chapter_name": "হিসাব",
+        "chapter_name": "ব্যবসায়ের আইনগত দিক",
         "chapterInfo": {
-          "chapter_file_name": "12867183",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867183/book.pdf"
+          "chapter_file_name": "12867378",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867378/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867187",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867187/guide.pdf"
+          "guide_file_name": "12867379",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867379/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "6",
-        "chapter_name": "জাবেদা",
+        "chapter_name": "ব্যবসায় পরিকল্পনা",
         "chapterInfo": {
-          "chapter_file_name": "12867110",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867110/book.pdf"
+          "chapter_file_name": "12867362",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867362/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867111",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867111/guide.pdf"
+          "guide_file_name": "12867364",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867364/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "7",
-        "chapter_name": "খতিয়ান",
+        "chapter_name": "বাংলাদেশের শিল্প",
         "chapterInfo": {
-          "chapter_file_name": "12867108",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867108/book.pdf"
+          "chapter_file_name": "12867317",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867317/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867109",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867109/guide.pdf"
+          "guide_file_name": "12867323",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867323/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "8",
-        "chapter_name": "নগদান বই",
+        "chapter_name": "ব্যবসায় প্রতিষ্ঠানের ব্যবস্থাপনা",
         "chapterInfo": {
-          "chapter_file_name": "12867121",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867121/book.pdf"
+          "chapter_file_name": "12867372",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867372/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867125",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867125/guide.pdf"
+          "guide_file_name": "12867375",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867375/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "9",
-        "chapter_name": "রেওয়ামিল",
+        "chapter_name": "বিপণন",
         "chapterInfo": {
-          "chapter_file_name": "12867161",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867161/book.pdf"
+          "chapter_file_name": "12867324",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867324/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867165",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867165/guide.pdf"
+          "guide_file_name": "12867326",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867326/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "10",
-        "chapter_name": "আর্থিক বিবরণী",
+        "chapter_name": "ব্যবসায় উদ্যোগ উন্নয়নে সহায়ক সেবা",
         "chapterInfo": {
-          "chapter_file_name": "12867100",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867100/book.pdf"
+          "chapter_file_name": "12867331",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867331/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867106",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867106/guide.pdf"
+          "guide_file_name": "12867333",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867333/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "11",
-        "chapter_name": "পণ্যের ক্রয়মূল্য, উৎপাদন ব্যয় ও বিক্রয়মূল্য",
+        "chapter_name": "ব্যবসায় নৈতিকতা ও সামাজিক দায়িত্ব",
         "chapterInfo": {
-          "chapter_file_name": "12867126",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867126/book.pdf"
+          "chapter_file_name": "12867355",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867355/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867139",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867139/guide.pdf"
+          "guide_file_name": "12867359",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867359/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
-      },
-      {
+      },{
         "chapter_count": "12",
-        "chapter_name": "পারিবারিক ও আত্মকর্মসংস্থানমূলক উদ্যোগের হিসাব",
+        "chapter_name": "সফল উদ্যোক্তাদের জীবনী থেকে শিক্ষণীয়",
         "chapterInfo": {
-          "chapter_file_name": "12867141",
-          "chapter_link": "https://github.com/hackbypdf/l360/files/12867141/book.pdf"
+          "chapter_file_name": "12867389",
+          "chapter_link": "https://github.com/hackbypdf/l360/files/12867389/book.pdf"
         },
         "guideInfo": {
-          "guide_file_name": "12867146",
-          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867146/guide.pdf"
+          "guide_file_name": "12867391",
+          "guide_pdf_link": "https://github.com/hackbypdf/l360/files/12867391/guide.pdf"
         },
         "noteInfo": [],
         "suggestionInfo": []
